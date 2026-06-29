@@ -1,5 +1,5 @@
 // ==========================================
-// KONTRIBUSI: RANDHAN HIDAYAT (ALGORITMA SORTING)
+// KONTRIBUSI: RANDHAN HIDAYAT (ALGORITMA SORTING-SELESAI)
 // ==========================================
 // Mengurutkan data berdasarkan NIS secara Ascending menggunakan Bubble Sort
 void urutkanSiswaByNIS(vector<Siswa>& daftarSiswa) {
